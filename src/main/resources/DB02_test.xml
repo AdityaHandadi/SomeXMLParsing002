@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.util.Values">
+    <record name="new_AdapterOutput" javaclass="com.wm.data.ISMemDataImpl">
+      <array name="results" type="record" depth="1">
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">CUSTOMERREFNUMBER</value>
+          <value name="XMLTRANS">CUSTOMER_ENQUIRY_REFERENCE_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">ENDUSERID</value>
+          <value name="XMLTRANS">ENDUSERPARTNERNUMBER_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">NETPRICE</value>
+          <value name="XMLTRANS">INTEGRATION_SELL_PRICE_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">LINE</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">PROPBIDTYPE</value>
+          <value name="XMLTRANS">SAPQUOTATIONTYPE_QUOTE</value>
+          <value name="OLDVALUE">2</value>
+          <value name="NEWVALUE">ZCPQ</value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">RESPONSIBLE</value>
+          <value name="XMLTRANS">SAPSALESMANAGER_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">SOLUTIONLISTPRICE</value>
+          <value name="XMLTRANS">SAPLISTPRICE_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">LINE</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">ASK_DIVISION_TBD</value>
+          <value name="XMLTRANS">SAP_DIVISION_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE">US</value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">ASK_PLANT_TBD</value>
+          <value name="XMLTRANS">SAP_PLANT</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">LINE</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">DISTRIBUTIONCHANNEL</value>
+          <value name="XMLTRANS">SAP_DIST_CHANNEL</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">SALESORGANIZATION</value>
+          <value name="XMLTRANS">SAP_SALES_ORG_QUOTE</value>
+          <value name="OLDVALUE">3100</value>
+          <value name="NEWVALUE">3999</value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">CURRENCYID_TBD2</value>
+          <value name="XMLTRANS">CURRENCY_TYPE_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">CURRENCYID_TBD3</value>
+          <value name="XMLTRANS">SAP_CURRENCY</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">CURRENCYID</value>
+          <value name="XMLTRANS">@CURRENCY_PREF</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">QUANTITY</value>
+          <value name="XMLTRANS">_PRICE_QUANTITY</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">LINE</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">QUOTATIONID_TBD2</value>
+          <value name="XMLTRANS">PROJECT_NAME_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">CUSTOMERID</value>
+          <value name="XMLTRANS">_CUSTOMER_ID</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">QUOTATIONID</value>
+          <value name="XMLTRANS">BS_ID_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">VALIDUNTIL</value>
+          <value name="XMLTRANS">SAPQUOTEVALIDTODATE_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">ASK_PRICE_QTY_TBD</value>
+          <value name="XMLTRANS">SAP_SALES_ORG_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">LINE</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">STATENAME</value>
+          <value name="XMLTRANS">STATUS_QUOTE</value>
+          <value name="OLDVALUE">QUOTE CREATED</value>
+          <value name="NEWVALUE">PENDING</value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">STATENAME_DFL</value>
+          <value name="XMLTRANS">STATUS_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">INCOTERMSTYPE</value>
+          <value name="XMLTRANS">TERMS_OF_DELIVERY_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">INDUSTRYID</value>
+          <value name="XMLTRANS">MARKET_CODE_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">PAYMENTTERMS</value>
+          <value name="XMLTRANS">PAYMENT_TERMS_QUOTE</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">HEADER</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">NUMBER</value>
+          <value name="XMLTRANS">_PRICE_QUANTITY</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">LINE</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+        <record javaclass="com.wm.data.TESTING">
+          <value name="MANDT">180</value>
+          <value name="ORIG_COMPANY">ASKBETA</value>
+          <value name="DOCTYPE">Q</value>
+          <value name="XMLFIELD">MAINUNITQUANTITY</value>
+          <value name="XMLTRANS">_PRICE_QUANTITY</value>
+          <value name="OLDVALUE"> </value>
+          <value name="NEWVALUE"> </value>
+          <value name="LINEADDR"> </value>
+          <value name="SECTIONNAME">LINE</value>
+          <value name="SKIPTAG"> </value>
+        </record>
+      </array>
+      <number name="count" type="java.lang.Integer">27</number>
+    </record>
+  </record>
+</IDataXMLCoder>
